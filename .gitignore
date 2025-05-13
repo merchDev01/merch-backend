@@ -1,1 +1,10 @@
+__pycache__/
+*.py[cod]
+*.env
 .env
+*.sqlite3
+Pipfile.lock
+.idea/
+.vscode/
+*.log
+node_modules/
